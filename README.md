@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Judy!
-
+I am a Data Scientist!
 <!--
 **judysitero/judysitero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
