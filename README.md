@@ -1,16 +1,18 @@
-### Hi there 👋 I'm Judy!
+### Hi there 👋 I'm Judy!  
 I'm a Data Scientist who specializes in Machine Learning Engineering.
-<!--
-**judysitero/judysitero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: siterojudith@gmail.com
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m trying to learn more about Neural Networks 
 - 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I am working on getting my pilots license!
--->
+- ⚡ Fun fact: I am working on getting my private pilots license!
+
+Languages and Tools: 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+Connect with me!: 
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=judysitero&theme=calm)
