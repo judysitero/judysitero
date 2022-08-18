@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Judy!  
-<h3 align="center">I'm a Data Scientist who specializes in Machine Learning Engineering</h3>
+<h2 align="center">Hi there, I'm Judy!</h2>
+<h4 align="center">I'm a Data Scientist who specializes in Machine Learning Engineering</h4>
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m trying to learn more about everything!
