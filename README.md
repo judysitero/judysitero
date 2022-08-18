@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Judy!  
-I'm a Data Scientist who specializes in Machine Learning Engineering.
+**I'm a Data Scientist who specializes in Machine Learning Engineering.**
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m trying to learn more about everything!
