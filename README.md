@@ -2,7 +2,7 @@
 I'm a Data Scientist who specializes in Machine Learning Engineering.
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m trying to learn more about Neural Networks 
+- 🌱 I’m trying to learn more about everything!
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I am working on getting my private pilots license!
 
