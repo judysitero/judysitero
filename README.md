@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m trying to learn more about everything!
 - 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I am working on getting my private pilots license!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
