@@ -2,7 +2,7 @@
 <h4 align="center">I'm a Data Scientist who specializes in Machine Learning Engineering</h4>
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m trying to learn more about everything!
+- 🌱 I am passionate about coding and constantly striving to enhance my skills in this dynamic field.
 - 😄 Pronouns: (she/her)
 
 <h3 align="left">Connect with me:</h3>
