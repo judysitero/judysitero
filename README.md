@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Judy!</h2>
-<h4 align="center">I'm a Data Scientist who specializes in Machine Learning Engineering</h4>
+<h4 align="center">I am an aspiring Software Engineer</h4>
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I am passionate about coding and constantly striving to enhance my skills in this dynamic field.
